@@ -10,6 +10,10 @@ This repository documents systematic failures in Xbox Store review moderation, p
 
 **→ [Read the formal complaint to Microsoft/Xbox](COMPLAINT.md) ←**
 
+## Current Status
+- Reported via [buscond@microsoft.com](mailto:buscond@microsoft.com) as advised by live chat. 
+- Received confirmation of receipt email.
+
 ## The Problem
 
 The Xbox Store's review system is failing developers and users in several critical ways:
@@ -19,6 +23,7 @@ The Xbox Store's review system is failing developers and users in several critic
 - This visibility exposes games to immediate review bombing from users who haven't played them
 - The "New to Game Pass" section appears just below the fold on every Xbox's home screen
 - This promotion actively pushes games to players who may be motivated to down-rank based on prejudice
+- Reported dog-whistle, masked hate-speech or sexualised reviews on childrens games do not get removed upon reports, and when requesting an update on report progress, they are flagged as not violating the policy. The policy needs to change.
 
 **→ [See the proposed solutions](SOLUTIONS.md) ←**
 
