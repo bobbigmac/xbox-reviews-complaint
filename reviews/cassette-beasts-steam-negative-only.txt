@@ -1,0 +1,804 @@
+128 people found this review helpful
+7 people found this review funny 17
+
+Not Recommended
+16.9 hrs on record
+Posted: 13 June, 2023
+With the review scores being the way there are, I am wondering if I ended up with the wrong version of the game. It had so many blatant issues that I am more than a little surprised so few people would mention them here. So, having played through the entirety of it with a friend, I may as well try myself.
+
+To at least start off on a positive note, the game does look and sound nice. The artwork and designs, as well as the music in the game, are pretty good. It did give a good first impression, but that is about everything the game really does well. Everything else feels like someone's first attempt at designing gameplay.
+
+Combat
+The combat tries to offer some complexity with various type interactions that cause different buffs, debuffs, and other effects when certain typed attacks are used against others. This sounds neat in theory, but was so irrelevant for the entirety of the game that it may as well not have been there. The observant player quickly notices that a high speed and damage stat are all that really matters, at least early on. It's easy to one shot at least one enemy in a given fight before they get a turn in, far more effectively minimizing damage than any amount of defense or utility ever could.
+
+Once you get into the late game and have more stickers at your disposal (The game's version of monster abilities that you can swap between monsters), the game completely falls apart. It is trivial to equip your monsters with combinations of stickers that, in our playthrough, one-shot almost every single fight (Including bosses) before enemies even got a turn in. So the game either breaks the moment you experiment with it, or you restrain yourself and stick to uninteractive loadouts all the way through, there is, unfortunately, no fun way to go about it.
+
+Even when you are obliterating your foes, the game is still adamant on playing out every single action in order. Did you proc five random attacks and the single enemy died after the first? The game has to let you know the other four ones all failed, in order. Attacks with type advantage need to inform you what debuffs you put on the enemy even though they are already dead. Multi-hit attacks play out all of their attacks every single time as they whittle away at corpses. There is no way to speed up combat or skip animations.
+
+Fusions were a neat idea in theory but became obsolete the moment you get them, not to mention that they effectively delete multiplayer for the duration. Hopefully, your friend doesn't mind sitting out if you ever plan on using them. Either way, they effectively combine the stats of the fused creatures, as well as their ap. In execution, this is pointless because you are also down to one action per round, making anything but spamming high ap attacks a waste of your turn. Even then, the strongest attacks are ones that trigger when creatures are swapped in, meaning you are far better off even damage wise to just never fuse and rely on your passives.
+
+User Interface
+The UI in this game is an absolute atrocity. You have 14 different elements attacks can have, and can then roughly categorize abilities into melee attacks, ranged attacks, passives and utility. Guess what options you have to sort them? Alphabetically. That's it. Have fun scrolling through your list of stickers from memory as you flip through a list that can only display ten at a time.
+
+Swapping out party members means they have to take the creature equipped to them with them. Had a new party member force your current one back into town during a story quest? Have fun running back and swapping around monsters for a few minutes in order to get back the monsters you were currently planning on using.
+
+Puzzles
+Someone seems to have understood the general concept of puzzles but didn't actually bother trying with the execution. There are some overworld puzzles that were interesting, requiring you to pay attention to the environment and figure out a solution off of those hints by yourself. Most of the main game puzzles, however, are obvious the moment you look at them, and simply require you to go through the motions for the bland execution, making you wonder why they are even there in the first place.
+
+This is exacerbated by the fact almost all chests in this game contain garbage. You get good stickers from shops/leveling up bootlegs (The game's version of shiny monsters) and good materials from overworld rogue fusions, quests, and bosses. As far as I remember, the contents of every single chest in this game have been pointless materials you would also drop from every random encounter ever.
+
+Narrative
+The game has made the curious decision of attempting to go for a character relationship driven narrative while also rendering you a silent protagonist. You have occasional response prompts that are usually something along the lines of "Yes" and "Yes but in yellow". No dialogue options in this game matter, except for possibly romance confessions when reaching maximum relationship status with a given character. Naturally, they are head over heels for you after expositing their life story and struggles at you, while you blankly stared back like the soulless automaton that you are.
+
+The meta-commentary we haven't paid much attention to, but it is more than a little on the nose with one boss being the incarnation of capitalism, while one of the enemy factions is a group of landlords that are literally just vampires. This was roughly on the same level as the quest to stop an evil cult. You don't really know why they are evil, they aren't actually doing anything in the game that is shown to you, or even mentioned to any significant degree, but it's a cult, what else are they going to be?
+
+Conclusion
+This game certainly felt like wasted potential. The gameplay didn't really change after five or so hours in, but we wanted to push through to the end to see if combat maybe gets more varied somehow. As far as we could tell, none of the bosses have any mechanics that require you to interact with them, safe for a singular puppeteer that has effigies of your team on his side, requiring you to pay attention to where you place your attacks, lest you suffer recoil. Had the game tried to do more things like this while keeping some semblance of ability balance, perhaps it could have been something.
+ 
+
+Nex
+14
+19 people found this review helpful 0
+
+Not Recommended
+1.7 hrs on record
+Posted: 30 May, 2024
+The multiplayer is extremely misleading. You exist in the same world but can not actually interact in any real way. The multiplayer is only for raid battles.
+ 
+
+Drsquid
+0
+18 people found this review helpful
+1 person found this review funny 0
+
+Not Recommended
+11.5 hrs on record
+Posted: 10 August, 2023
+This game needs a speed up/quick mode. Having to watch the same battle animations for countless battles will drive any sane person mad.
+ 
+
+DNR_DNI
+358 products in account
+0
+157 people found this review helpful
+16 people found this review funny 36
+
+Not Recommended
+20.7 hrs on record
+Posted: 2 May, 2023
+I'm stuck on whether to actually recommend this. The savvy type will see the overwhelmingly positive reviews and raise their eyebrow, sending themselves off to the negative reviews section because they know that even if they don't agree, they'll at least get a review with any semblance of critical thought*, because it's the only part of the review section meant to be about reviewing rather than as a marketing hype machine.
+
+That's the audience I want to reach, so I'm leaving this in the negative category.
+
+I want to preface this with saying that I haven't beaten the game. I'm going to tally that against the game, because it doesn't earn it's capacity to utilize it's own open world to control pacing. It very quickly feels like the majority of your time will be spent dodging very low level enemies who partially scale (at recommended settings) their stats (but never enough to facilitate an actual challenge), while ambling across a psuedo-samey puzzle-box like map structure, turning the game into a maze to navigate just to get to an area that you've either been in before to complete a quest, or a new area, probably to also complete a quest.
+
+The problems compound with it's structure working against it, the game has no method of guiding you to appropriate challenges or to appropriate points to reduce the inane backtracking. There are ways to fast travel but the methods of unlocking the places you can fast travel to feel almost arbitrary (One area is unlocked on the critical path, one is unlocked in a character side quest!). Couple this with meatgrinder battles that will slowly chisel you down and you quickly start to feel that the pace slowly simmers down between the interesting moments, as you check the map every few fights and backtrack to a rest point (bonfire, which you can't fast travel to) before moving on to fight more meatgrinder battles and dodge fights on the overworld and spam the run button when you fail to dodge....
+
+The interesting moments are whenever you encounter a new monster. Take that as damning praise against the rest of the game. This game shoots pokemon's "elegance in simplicity" design philosophy in the foot by pushing complexity in designs without straying from a core idea, rendering their more complex beasts instantly readable despite having more to look at. The game is a *bit* too reference heavy in it's designs to always completely land for me, but it's mostly drawing from historical or urban folklore that ends up being underutilized in the wider space. It's a matter more of preference whether that hits you or not, rather than the idea itself being trite. These little guys are consistently great, and I definitely appreciate the ubiquitous artificial human creations (plastic in particular) becoming a natural element to draw from lean that alot of these designs utilize.
+
+It's real ♥♥♥♥♥♥♥ unfortunate that the devs decides to put these good design philosophies in a game that's so ♥♥♥♥♥♥♥ hipster it's competing with YIIK
+
+Okay, that's quite an exaggeration. It's not....nothing is YIIK. This game wants to push itself as profound, and boy ♥♥♥♥♥♥♥ howdy do you feel it. You fight "trainer" battles with philosophers popular with the "i am smort" crowd, the fusion mechanic of the game always makes the obvious "lol its like sex" joke that I'm mostly mad at for starting to do it after I started taking the piss out of it, there are people in the game people call vampires that are actually just landlords, one of the bosses is "inspired by the concept of consumerism", you get the picture. I'm not one of those ♥♥♥♥♥♥♥ conservative idiots who thinks "politics should be out of games", but you need to face the fact that you aren't leftists, like most liberals want to act like they are. You certainly don't earn the capacity to put Karl *♥♥♥♥♥♥♥* Marx in your game, I don't care for how briefly.
+
+The characters are very aggressively uninteresting, and flip between being daydreamy psuedo-philosophers, snark factories, and their character trait. Sometimes two of those at once, how's that for character depth!?
+That certainly doesn't stop them from talking to you until you think they're cool. Dialogue isn't...well it isn't Planescape, but there's enough from there that when I realized I'm completely uninterested in these people that I felt the attrition from spamming the skip button, much like Monster Hunter.
+
+That leaves battling. People are saying it's innovative. Sure, it is. Is it *good*? I'll tell you when I need to use it. I'm at around level 40 (side note: your level and therefore mon stats being attached to your character defeats it's own purpose when you need to level up your mons to get moves that allow them to compete anyway, unless you spam TM's, which isn't ridiculous because it isn't expensive, but it should be noted), and power has overwhelmingly consistently been the best strategy. If you don't know how it works, (although you've probably read another review that explained it but I'm just being thorough), instead of types interacting through varying levels of damage output, they interact through a series of buffs or debuffs depending on the type (single, there are no doubles except fusions) of the monster and the type of the move. A fire move hitting a wind mon will create a wall for the wind mon that will block two attacks is a fairly frequent example. A fire move hitting a grass mon will ignite them, giving them a dot. Like I already said, however, I've fairly frequently been able to brute force my way through because an enemy doesn't have the capacity to nuke me, and I always will have more mons, which, as someone who frequently plays hardcore nuzlockes, made me appreciate the pokemon battle system alot more than I did before.
+
+Man, I didn't realize until writing this review how much of the game I really considered a miss. I'll play to finish and I'll update the review with how I feel if it's changed, it's possible the characters might grow on me, or the battling gets genuinely involved, but, really I'm just playing through to see all the monsters this game has. Even the ones I like less were still absolutely great, I can't emphasize enough how much I like them.
+
+side note: the overworld has puzzles but theyre in the same league as botw, i didnt wanna dedicate a full paragraph to saying that lol
+
+*Edit: i checked the negative reviews section after i wrote this, boy was i wrong lol, i'm pretty sure this is the only thing resembling a review down here. hell there was a moron talking about jewish marxist propaganda lmao
+
+Edit 2: The lead singer in the tracks of this game sounds disturbingly similar to Hayley Williams
+ 
+
+Crysanthium
+71
+39 people found this review helpful
+4 people found this review funny 3
+
+Not Recommended
+26.0 hrs on record
+Posted: 20 May, 2023
+Simple combat with a lot of depth. A very nice variety of monsters with almost all of them having evolutions and some multi-evolutions. Sadly that is the ONLY good thing about the game. I would love to say I finished the game, but unfortunately I did not due to the lack of a lot of QoL settings that should've been implemented at the start. I have some personal issues with the RPG/metroidvania elements of the game I will highlight, but they aren't really deal-breakers (mainly with chests).
+
+Note: to keep things simple I'll be keeping terms common. Skills are known as Stickers. Monsters are known as Cassette Beasts. I'll be using skills/monsters for the terminology.
+
+1) A lot of my time in this game is spent watching monster attack animations which take forever to go through and wastes/pads the time by a lot. Let me explain this. There's a move in the game called "Multi-Smack" that attacks a monster 3-5 times (similar to multi attack moves in Pokemon like Fury Swipes, Pine Missile, or Fury Attack). If this attack causes a monster to faint it will continue the animation fully until it's done. Let's say Multi-Smack hits 4 times, but the monster faints after 1 hit. The animation will still play out for 3 more hits despite the monster having 0 HP. Another interaction that wastes time is when you attack a Wind enemy with a Fire ability it creates an Air Wall that would block attacks. When you do this even when the monster faints, it still creates the wall unnecessarily wasting time again. There's a ton of these type of time wasting interactions in the game that unnecessarily pad out the time.
+
+2) Speaking of padding out the time, combat has no speed up or skip animation feature in the settings. When combat is naturally 2 v 2 with slow animations AND monster skills are unnecessarily padded out, the lack of a 2x speed really drags things along.
+
+3) There's a lot of annoying features with the UI that would come out as a laundry list. These are things like:
+
+- Moving monsters in and out of the storage taking way too long and having far too many buttons to press to do so.
+- No filter feature and/or search feature for skills (TM/HM moves from Pokemon, and there is a VERY long list of skills when you play the game).
+- No manual map markers so you're expected to remember every treasure/hidden cave location
+- Swapping party members forces the party member to take your monster instead of being sent to your storage. What this means is that party members will ALWAYS require you to put a monster that you don't want with them in order to swap them out with another party member. This is exacerbated by the lengthy storage system UI I highlighted on my first point.
+- There's a lot of prompts that don't force a check. For example, you can flee and there won't be a button asking "Are you sure you want to flee?". Another problem is you can accidently recycle cassettes (the poke balls of the game) with no prompt given mid combat. I accidently recycled all of my early game cassettes because I didn't know I was unable to catch a monster in the early game.
+
+4) Chests don't feel rewarding at all. As far as I can tell you can obtain every skill/passive at the start of the game through traders. There are upgraded variants of skills (so say an upgraded version of "Multi-Smack" that increases the damage or gives the ability +1 more hits), but it's completely RNG based so there's never going to be a guarantee you'll get what you want without grinding hard. This is why monster level ups and chests feel pointless because every skill is available at the start. Going back to a chest that required a certain ability you can access to only find a useless skill makes me not want to bother exploring the game. Personally I think chests should give reroll options on rare skills or the ability to upgrade skills to make them more worthwhile, but I digress.
+
+These issues really started weighing down on me until eventually I couldn't bring myself to continue playing the game. I do not know how far I've gotten as there aren't really any big indicators of progress in the game. I've unlocked the second half of the map, but I'm a completionist so I was grinding level ups on monsters to see their evolutions. Cleared half the bosses and 5 of ranger captains.
+ 
+
+nosef
+496 products in account
+1
+65 people found this review helpful
+7 people found this review funny 19
+
+Not Recommended
+31.2 hrs on record
+Posted: 13 May, 2023
+Edit: I've completed the story at this point and my stance on this game is largely unchanged. I've touched up my review a bit to elaborate on some things I was too brief on but that's about it. I will say that the final boss is at least decent in the first phase, though the second phase ends up being a glorified cutscene which is pretty disappointing. The ending is also really abrupt, which didn't really bother me but will probably upset anyone who actually likes any of the characters besides Viola (whose character motivation is clear and consistent enough for her behavior at the end to actually make sense) and Barkley (who is a very good boy).
+
+----
+
+From a raw gameplay standpoint Cassette Beasts is a pretty good game, and if that's all you're after then the current "Overwhelmingly Positive" rating is warranted. It's not perfect - I have issues with some of the UI (too many button presses to perform basic tasks, no confirmation window for irreversible actions like sending party members to storage or fusing) mechanics (unlocking new fast travel points / shortcuts is much more annoying/tedious than it needs to be, Eugene's fusion unlocking at endgame when he's one of the starter characters is baffling design) and balancing (Coaldron is such a mess that it can't use its own level up moves, meanwhile stack 7 Random Starters and a 10AP attack of your choice on a glass cannon and you'll auto-win every fight forever) - but it's overall a refreshing take on the mons genre that's mechanically solid enough that I wanted to keep playing until the end of the story in spite of the rest of this review.
+
+The writing however is a huge miss. Some other reviews mention woke elements, but honestly they aren't that bad. You have a 3-choice pronoun selection at the start of the game; a bunch of characters with neon hair; and a partner lineup with 1 white (female, Irish) character, 1 ambiguous character with dyed hair, 3 black characters, and a dog; but that's as far as it goes. It's the philosophy that gets me.
+
+Several of you have already pressed the jester award button just from reading that much, but if you haven't, please hear me out. There are random philosophers as NPC trainers throughout the world who spout one-liners related to whatever they're most famous for saying, then they lose all relevancy forever because they're just NPC trainers. Most of the partner conversations that weren't utterly forgettable were full of navel-gazing, the main exceptions being Viola (who actively refuses to navel-gaze and is the most based character in the game because of it) and Barkley (who is a dog).
+
+The society of New Wirral is pretty clearly trying to portray socialism...or more accurately the quasi-socialist aesthetic that so many modern liberals think is cool. If the game's portrayal of "socialism" functioned on more than an aesthetic level, or if it wasn't trying so hard to deliver a message rather than just being a good vibes "all-in-this-together" society, I wouldn't be nearly as scathing as I'm about to be.
+
+"From each according to his abilities, to each according to his needs" does not mean "you can do what you feel like and if that's sitting at home all day every day nobody will bother you about it" but that's sure how the game treats it. Similarly, in order to seize the means of production there must first exist a means of production, but New Wirral is a disorganized blob of vibes that subsists off of interdimensional detritus and expects a single pumpkin patch to feed everyone. This admittedly works, but only because the pumpkins are video game enemies that respawn faster than you can kill them.
+
+New Wirral also straight up doesn't have money (probably because all the landlords are literally vampires - yes, it really is that unsubtle) and instead relies on barter and favors, which is technically possible in the world as shown, but only because the canonical population is less than 1000 people, everyone who might possibly have less than pure intentions is cartoonishly obvious about it, and the island gets a constant influx of basic resources and refined goods for free so nobody has to bother with things like "infrastructure", "manufacturing facilities", or "supply chains". Even electricity production gets waved away with vague comments about an "energy field"! The only reason this society lasted a full century is authorial fiat, which means the whole thing stops being applicable to the real world and the message is shot in the foot.
+
+I think the best summary is that the game has an entire dungeon and boss fight that's all about lecturing the player about the emptiness of consumerism and the need to spend less time and money on hollow things like...video games...when it A) costs $20, which might not sound like much, but the take only needs to be split between 2 people and most games with this heavy an anti-consumerism message are either less than $10 or explicitly give a sizable chunk of profits to charity; and B) will take most players at least 20 hours to beat the main story, while still having a bunch of postgame content + a randomizer mode specifically designed to encourage people to play the game forever. Again, this game has "go outside" as one of its core messages.
+
+I hang out with actual Marxists and they aren't anywhere near as insufferable as this game can be. And their arguments are occasionally somewhat convincing, too.
+ 
+
+74 prairie dogs in a trenchcoat
+2,786 products in account
+0
+34 people found this review helpful
+3 people found this review funny 1
+
+Not Recommended
+0.7 hrs on record
+Posted: 13 January, 2024
+I am clearly one of the outliers here, but I cannot recommend this game. I am a huge fan of most creature collectors, from Dragon Quest Monsters to World of Final Fantasy, Digimon, and, of course, Pokemon. This game just seems kind of like a thematic mess to me. First and foremost, picking your starter tape basically explains nothing about it besides "Whats your style," In every creature collection game in existence this is the pinnacle moment of choosing your first partner, in Cassette Beasts in an afterthought. Unfortunately, for what I have played, that's what every character, emotion, or even combat experience feels like, an afterthought.
+
+Combat: Slow animations, way to many abilities, having a partner in the first place?
+
+Movement: Movement is janky as well, I know it gets better as you get further but its such a turn off to even attempt.
+
+Creature designs: One thing creature collector games hammer into you in a digestible way repeatedly is creature types and what beats what. You don't need a novel explaining the mechanics. I have no idea what my first two tapes were until way later on in the battles. I had no idea what things were weak too etc.
+
+Secondly the creature designs felt off. Games like Pokemon and Digimon do a really good job of things, starting off small in silhouettes or designs, even matching what spawns to the environment. Cassette Beasts has a giant ass Lunar New Years Lion dog spawn in one of the first areas. It's large and intimidating, doesnt fit the area and also offers no sense of a challenge.
+
+Music: Finally the reason people are probably wanting to play this in the first place. Why is it soooooo slow. It's almost like a Minecraft vibe but that doesnt fit here. You are going out on an adventure warding off wild monsters while fighting archangels and you have this really slow lofi music. Going back and having a discussion after fusion and fighting what seems like some higher being with lofi in the background just isnt the vibe. The Hayley Williams-sounding girl lyrical tracks playing while you are listening to characters and reading slowly become grating as well. For a smaller team the game seems like it was an ambitious project, there is strong designs and concept foundations but they just did not land the mark for me. Too much was done without any sense of world cohesion or the way it feels to a player.
+ 
+
+TrickedFaith
+0
+15 people found this review helpful 0
+
+Not Recommended
+0.4 hrs on record
+Posted: 19 July, 2024
+Multiplayer update is a bit of a scam, it's not multiplayer but simultaneous single player which is simply not the same. This is (intentionally?) left vague on the store front so I and a friend bought it to play together and were extremely disappointed. The game even gives you an NPC companion for fights but won't let your friend play as them or replace them.
+
+Deeply disappointing.
+ 
+
+Red Ned
+0
+8 people found this review helpful 2
+
+Not Recommended
+34.4 hrs on record
+Posted: 17 July, 2024
+Exploring the world is fun, the creatures are (mostly) well designed with fun names, the story is heartfelt and the music might be considered good by people with other taste than me.
+
+The combat isn't half bad until you figure out how to abuse the mechanics. Then it gets completely boring and unsatisfying to play.
+
+
+Also this game is lacking essential QoL-Features like sorting stickers (the abilities you can assign) is very barebone (for example you can't sort by their affixes), you can sort the bestiary but not explicitly look up creatures in it and such things.
+The hassling with the stickers is especially tedious and time consuming if you want to try out different strategies multiple times.
+
+If the keybinding in the menu were consistent that would've been also nice. (Pressing 'enter' at save doesn't save ,it merely closes the menu)
+
+It only crashed once but at a very unopportune moment.
+
+And worst of all: One creature that is inspired by a salamander is referred to as a lizard even though they're amphibians. :(
+ 
+
+Hojiboboji
+0
+21 people found this review helpful
+1 person found this review funny 0
+
+Not Recommended
+0.5 hrs on record
+Posted: 6 October, 2024
+Bought this to play with my friends.
+Only to find out I cannot in fact play with my friends.
+
+They can hover around you. They can watch your battles. They can battle you. They can trade. And you can team up for NPC battles -sometimes- but only when the game decides it's okay.
+Not a great feature, not multiplayer. Might as well have just called it "Cassette Beasts! Now with online watch-your-friends-play mode!"
+
+The feature is literally more equivalent to Pokemon GO than it is to actual multiplayer.
+ 
+
+Kittytravel
+0
+18 people found this review helpful
+4 people found this review funny 1
+
+Not Recommended
+30.2 hrs on record
+Posted: 6 October, 2024
+TL:DR: What starts as an innovative and exciting experience unfortunately ends up devolving into a mundane and messy one.
+
+I appreciate the innovation when it comes to the platformer and traversal aspects, however the camera angle and movement made several encounters very janky, repetitive, and a chore. As for the battle mechanics - the forms and walls are a welcome addition. While I appreciate the wider variety of types and advantages, this turns into a spreadsheet headache if you care about battling and using that system. If you don't you can get through most of the game just using astral and plastic types. I think it would have been better served to narrow down on the available types and advantages and flesh out those options more to make battles more involved aside from spamming attacks and the occasional buff/debuff. The game also becomes very grindy and repetitive as a whole, fairly quickly. If you're someone like me and care about achievements/completion, you may find yourself dipping into QOL mods or the debug console to help expedite things. The art style was very pleasing - The music was not. It's not that the music itself was bad, it's just like 5 songs and thats it. 2 or 3 are mainly in rotation, with the hub town that you revisit a lot featuring one of them and it just loops, and loops....and...loops. The lyrics, the voice, it all gets really annoying 20 hours in hearing it over and over.
+ 
+
+KIBA
+0
+9 people found this review helpful 0
+
+Not Recommended
+6.2 hrs on record
+Posted: 29 May, 2024
+Multiplayer Update is overhyped, can't be called true multiplayer, as you can only do raid battles like random fusions together.
+ 
+
+Kon
+0
+11 people found this review helpful 0
+
+Not Recommended
+1.6 hrs on record
+Posted: 27 September, 2024
+heartbreaking, multiplayer is just individual battles you have with yourself.
+ 
+
+Skybluesofa
+69 products in account
+0
+18 people found this review helpful 0
+
+Not Recommended
+17.6 hrs on record
+Posted: 17 March, 2024
+The game play is mostly fun, I just hate the story (It's an isekai) and all the characters (All of them are annoying stereotypes, except for maybe the dog). I'm also not a big fan of the music, I don't think there is anything wrong with it, it's just not for me.
+ 
+
+Wetpaper
+0
+20 people found this review helpful 0
+
+Not Recommended
+14.5 hrs on record
+Posted: 7 September, 2023
+I really respect the work of a small team, but the game has quite a few shortcomings that made it much less enjoyable than I had hoped for after all the very positive reviews.
+
+The combat is fun at first, but there are a lot of underwhelming abilities and some very, very tedious debuff stacking mechanics in the later fights that do not feel challenging or make the fight harder, just longer and very annoying and unfun without counters.
+
+Has some nice touches and ideas, but is way, way too repetitive and does not respect the player's time or nerves. Fast travel exists, but only to very specific locations (why the f*** not to campfires, it would make this feature 100 times better), so you backtrack and walk dozens of times through the same areas, again and again, without any incentive to do so. Monsters don't scale, so you don't even get noticable XP or materials you want - just more of tons of materials you allready have - so there is no gain form all your walking through areas you have walked through 50 times.
+
+I really wanted to like the game, the art style is nice, but all the menus, dialogues and combat interactions take too long for something you need to do thousands of times. I got more and more annoyed the farther I got through the game.
+
+This effect gets worse through all the environmental puzzles that make you comb through every inch of every map to find another stone to put on a switch to reveal a second switch that reveals a third switch that opens a door if you find another thing you finally need that has you backtracking to another area.
+
+As other reviews mentioned the extremely tedious grind to achieve any progress in the really late game, I just gave up after 15 hours of gameplay I only enjoyed half of the time.
+
+TL;DR:
+
+I like the artstyle, the combat is better than Pokemon in some ways but in other areas it is quite annoying and the game needs a lot of QoL features, does not respect the players time and I hate the cumbersome progression through the areas.
+ 
+
+Mighty Mors
+0
+19 people found this review helpful
+4 people found this review funny 0
+
+Not Recommended
+18.0 hrs on record
+Posted: 15 October, 2023
+Originally posted by Bytten Studio:
+One way to keep the player from feeling like their mental model of the game is complete is by making it difficult to complete that mental model... Elemental type matchups in Cassette Beasts inflict status effects, instead of simply increasing or decreasing damage. It’s intentionally difficult to memorize all the matchups and all the status effects on the chart. You’re not actually meant to! Even I haven’t.
+
+Or, you know, being frustrated to the point of putting the game down. The reason that monster catching games, like Pokemon or Dragon Quest Monsters, work is that there are consistent and well explained rules. Things are balanced around these rules and the player, through either trial and error or type matchup charts, can quickly glean what they need to to succeed consistently.
+
+Cassette Beasts, as the developer fully admits, intentionally made these type matchups difficult to understand, which is frustrating. For example, I found a cute lion puffball that I wanted to use, sadly it seemed weak to literally everything. Fire? Yep. Wind? Yep. Poison? Yep. Astral? Sure. Gonorrhea? Probably. It was a liability to even have around.
+
+And that sort of unbalanced nature pervades the core of the gameplay. You can create walls, but that requires a) a for you to sacrifice 20% of your health, b) use up your turn's action points, c) use up your only action per turn, and d) make sure your wall type isn't "weak" to anything the opponent has as a single hit from them will destroy your wall. And the wall only lasts for three hits- and there are a lot of moves that hit multiple times (or bosses that one hit walls anyway). At that point, why even have defensive options? Stat boosts are the same way. They take up a turn, require action points, and are generally not worth the damage you would have done if you had just attacked.
+
+Just overall, the gameplay is poorly tuned. Sure, your character level informs how powerful the monsters you use are, so theoretically you can use any monster once you catch it- but most base monsters have terrible stat ratios, so end up being worthless to use until remastered. Sure, you can change the moves your monsters know, but a) most are pretty worthless and b) not every monster can use every sticker thereby limiting what you can actually do with it. Sure, you get a partner to help out, but every one of them is basically pigeonholed into using a specific monster.
+
+The gameplay is very mediocre. But the art is nice! I do like the art! Is the art worth the price of admission? Not really, because you still have to play the game.
+ 
+
+Just a Housecat
+0
+17 people found this review helpful 0
+
+Not Recommended
+19.5 hrs on record
+Posted: 19 March, 2024
+i can tell they put their hearts into drawing all these creatures and making all this music, but the combat doesn't feel good at all (even when winning) and everything feels all hollow and sad. still driven to make progress here and there, but, hmm :(
+ 
+
+corgi dad
+0
+11 people found this review helpful
+1 person found this review funny 1
+
+Not Recommended
+17.5 hrs on record
+Posted: 31 October, 2024
+in the beginning it seems refreshing and a "modern" pokemon.. after a while the fights are really repetitive, also the fusions, which are the whole thing in cassette beasts are on one hand just a visual change, but the moves of the beasts are just merged, also while fused, you have only half of the moves per turn, which feels weaker.
+
+Some lagging is happening also, sometimes picking up things is buggy.
+
+One of the most disturbing things for me: there seems to be a core mechanic, that picking up anything (like a box or rock) makes you jump HIGHER or at least lets you reach higher walls than without anything.. this is really unintuitive.
+
+I think it's nice, that there are different companions. But I don't like, that they have a favoured beast, which is "meant to be played" for them. Also it's not optional to play with them, but you have to do it for progressing with the main questline.
+
+Every dialogue in the game has at least 2 answers. But it's onestly frustrating, that only so few of them actually make a difference in the progression. If there is no difference, please don't make me choose and think, if afterwards you let me know: "nice choice, but Idc, here is what would have happened either way."
+
+One last thing: there's no "fighting settings" to let you change seeing the whole moves or changing paste of the fight. After I saw an attack ten times, I really really don't enjoy seeing it another 200 times and especially when recording a beast, it TAKES AGES because there's another additional animation for every single move that round, which could influence the outcome..
+PLEASE make a setting to skip this.
+
+The game really has great aspects, like the awesome sounds, detailled questlines, awesome pixelart design, the whole idea with the fusing beasts is nice in my opinion. But at the same time, there's many frustrating design choices.
+
+I think I am only that disappointed, because the first look and feel of the game was really nice, and I am sure that there is a lot of love and passion put into it. But this is how I feel about the game at the moment.
+regards, eli
+ 
+
+eli44
+0
+4 people found this review helpful 0
+
+Not Recommended
+31.3 hrs on record
+Posted: 18 February
+Cassette Beasts comes with a few original ideas and decent execution, and will probably appeal to a lot of people. Though as far as I'm concerned, nearly everything about the game rubbed me the wrong way.
+
+First, I hate that it's an open world. I usually don't think this type of games does anything fundamentally different from linear games, except you have to backtrack a lot more, and are way more likely to miss stuff, and this title is no exception. Sure, "everyone gets to have their own adventure", but since the adventure isn't catered to them by any means and just depends on arbitrary left/right decisions, is it worth the trouble ?
+I don't know. Regularly being clueless as to whether I'm supposed to keep searching for a way to reach something or just move on because I'm missing an ability isn't that fun for me.
+
+There's also a menu that lets you wildly modulate both enemy scaling and AI at any point of the game. While I don't have anything against providing alternatives for struggling players, a couple competently-built difficulty options seems much more sensible to me than a system where players, who don't know the implications of what they're doing and don't necessarily have much insight on game design, get to semi-randomly pick options that might make for a less coherent and/or less fun game experience without even realizing it.
+
+On a less subjective basis, menus are a chore to navigate, the game makes you jump through a lot of hoops to find certain pieces of information (e.g. basic stat spreads for every species), and it has all the important graphic options, except the tuning down of the notoriously resource-intensive water physics.
+
+Now about the gameplay itself, I found it... mostly ok.
+
+On the plus side, creatures don't have individual levels and are automatically aligned to your character's level. Also, every ability they learn can be unequipped at will to slap on another compatible monster. So, Cassette Beasts competently addresses a typically tedious side in the monster collecting genre, which is kind of a big deal.
+
+However, I found battles to lack a bit of flavour. As easily modulable as they may be, moves aren't all that varied. You do have your weak attacks, strong attacks, passives, buffs, debuffs and walls, which, on paper, is the core recipe for quality gameplay in this genre. It's just that there's little of everything, and it's overall quite generic.
+
+As opposed to Pokemon, where a lot of creatures have a very distinctive combo of available useful moves and passives, which is a huge part of why it's so interesting to play competitively, or even at all, monsters in Cassette Beasts are basically just the sum of their stats, a couple generic offensive moves, and the occasional useful-but-basic ability, which makes a lot of them virtually interchangeable.
+
+As a result, the adventure quickly felt samey and a little long-winded to me. (Of course, Pokemon is in a whole different league in terms of budget and development time, but you get the idea.)
+
+Also, the way types interact with each other (applying certain buffs and debuffs that sort of chemically make sense, as opposed to a simple damage multiplier) looked very interesting on paper. And honestly, it does add a little something. But at the end of the day, it's not that different from the usual trope, as you ultimately just get something extra if you manage to hit with a strong type. It doesn't make the game significantly more complex, but it does make it confusing for newer players, so I don't know how I feel about that.
+
+I did enjoy the story though. Even if it awkwardly tries to pass as mature on various occasions, and I think could have been executed a lot better, the universe it takes place in is quite charming. The monster design itself was quite inspired too.
+
+All in all, I'm not convinced. But it's certainly not horrible, and I'm sure you could have a good time with it, provided none of the things I pointed out as personal dealbreakers bother you.
+ 
+
+Groove Wizard
+2
+12 people found this review helpful 3
+
+Not Recommended
+56.1 hrs on record
+Posted: 1 June, 2023
+I absolutely love this game, don't get me wrong, but I've invested hours into two saves and both got corrupted somehow. First time was write after I beat the game. Credits rolled, and then it went back to the title screen, then the save just said "Corrupted File" and wouldn't work. The second time, I got pretty far into the game, then I was walking through a train station, then the game froze. Restarted it, and now that file crashes during the loading screen.
+
+Again, everything about the game is great. But this sucks that this is happening. I'm not sure if it's specific to me or playing on the steam deck or whatever. I'd be happy to flip this to recommended if this problem gets fixed.
+
+Otherwise, great job on an awesome game.
+ 
+
+Zelemetal
+1
+11 people found this review helpful
+3 people found this review funny 3
+
+Not Recommended
+0.4 hrs on record
+Posted: 15 October, 2024
+It's not actually online co-op. More like you're in the same world as your friend but you can't engage in any actual co-op activities except for some instances. Hard pass.
+ 
+
+Hans
+299 products in account
+0
+7 people found this review helpful 0
+
+Not Recommended
+14.6 hrs on record
+Posted: 22 November, 2024
+Sadly I can not recommend. The game to me wound up being death by 1000 paper cuts.
+Where it was stamina, the writing being just ok, the only way to get the last progression ability only being easy to get from a story encounter, fusion for the character I wanted to use being locked behind a lot of the game, random performance issues and a random crash, the stamina system, finding out something I wanted to use was locked to coop, and more.
+
+Game isn't terrible by any means but there were so many small things that made me frustrated or annoyed that I just didn't want to play the game anymore.
+ 
+
+Twigy
+972 products in account
+0
+27 people found this review helpful
+3 people found this review funny 1
+
+Not Recommended
+38.4 hrs on record
+Posted: 7 May, 2023
+As much as I adore the monster designs, a good art/sprite team can't save a game from mind-numbingly amateurish writing and tedious "puzzles" that feel like a college student's Unity project. I understand indie dev teams don't have the same resources an AAA studio has, but Cassette Beasts has so much potential and it's painful to be forced to wade through so much drivel before you can get to the genuinely enjoyable parts.
+
+While I wouldn't recommend the game for a full $20, if it goes on sale (which I picked it up on) I'd say it's worth it. The combat is pretty alright and can be complex if you want it to be, boss fights are decently fun, and like I said the beasts you collect are pretty great. I just wish they'd either put more time into the overworld + dialogue because atmosphere plays a big role in RPGs, even monster collectors.
+ 
+
+Dawgtag
+0
+7 people found this review helpful 0
+
+Not Recommended
+7.7 hrs on record
+Posted: 29 May, 2024
+The game is interesting all around with the aspect of the Cassettes and the world that was crafted for them. The plot, what bit I did play singleplayer before finding out about a multiplayer update and not wanting to get too far without playing with a friend, was also highly interesting. Though there's one caveat that kills this entirely for me now.
+
+Not being able to fight with your friend in story mode is a waste of potential. The framework for battling co-op is there with the local co-op. Just have the friend replace the companion in the fight while the companion is there for story purposes. Being restricted to just rogue fusions is stupid and lazy when this update could've been so much better. If its a balancing issue, they already have the difficulty sliders that help provide harder challenges.
+
+I'll change my review to positive once they add a multiplayer co-op support for battles through the story.
+ 
+
+Malokenic
+319 products in account
+0
+4 people found this review helpful 0
+
+Not Recommended
+2.0 hrs on record
+Posted: 12 December, 2024
+Agree with most of the other neg reviews.
+
+Art and monsters = fantastic
+Gameplay and approach to battle/mechanics = not for me
+
+The look and feel are amazing, and the monsters are interesting and creative.
+
+But implementation left me unhappy:
+
+- Total lack of QoL features; coming from Coromon to this makes the lack far more obvious and annoying. Minute-to-minute is frustrating and slow. I gather this can be improved through unlocks - that's not a great design choice, imo.
+
+- There's something about the entire concept of the human/monster transformation system that puts me off. As in, the fundamental approach to battle, the world, and how everything interacts feels janky and uninteresting, and I find it hard to care about the things I usually focus on in a creature collector.
+
+I think folks who care much more about the story, relationships, and being in the world will love this game. Folks who care more about RPGs and creature collection/building the perfect team are going to be disappointed.
+ 
+
+toddcmz
+0
+7 people found this review helpful 1
+
+Not Recommended
+60.1 hrs on record
+Posted: 28 November, 2024
+I really want to love this game, but it just has so many problems and next to no quality of life. Everything was amazing at first, but the deeper into the game you get the clearer and annoying the problems are. For example, the entire catching mechanic is a pain. I'm level 60 and they are level 50 ish, they can’t hurt my monsters much, but when I try to catch them, they will one shot my characters human form. This is a constant problem and makes catching end game monsters nearly impossible.
+
+If you must change to human form to catch things, then there needs to be a way to beef up your weak human form. Maybe body armor or something? You can apply buffs to yourself, but they seem to not work very well if at all on your human form when they are trying to catch something.
+
+The character is so squishy that I have very rarely, late game, been able to use my entire team of monsters. 90% of the time when my main fighter dies, it will also kill my character, not letting me switch to others. The whole character HP thing honestly just needs to be removed or heavily reworked as that is the main thing holding the game back.
+
+Another annoying thing is the over world abilities. These are very clunky to use, and you will find yourself wasting a lot of time trying to time jumps or use the terrible magnetic ability. You will also have to run around a lot as fast travel points are very spread out and locked behind story missions half the time. This could easily be fixed by being able to fast travel to campfires, but guess that would be too player friendly.
+
+All the other quality-of-life things are locked behind super late game grinding, making the normal play through experience very tedious. For example, you can only hold 5 healing items. You will never need more than 5 in a single fight, but if you are not paying attention, it is easy to start a fight when you are out of healing items, making you lose fights you could have won. This makes the annoying cycle of going back to town to buy more every time you use one of two, so you don’t run out when it matters. The only way to get more space is to grind fusion materials which you will get a couple dozen naturally, but you need 100s and the only decently fast way to farm them is in post-game.
+
+Also, as far as I can tell there is no way to heal the character directly, you can only heal the monsters. I guess since they get almost or fully one shot no matter what, the devs figured they didn’t need to add a way to heal them. This will cause you to have to also go back to town to rest often. So, if you aren’t going back to town to buy healing items every 5 mins, then you will have to go back to rest anyway. You will spend a majority of your time doing this.
+
+I love the art of the landscape and its monster, plus the characters are fun and pleasant. But that can only carry the game so far when all the mechanics are a frustrating mess. I also loved the music at first but after 30 hours of hearing the same two songs, it has gotten very old.
+ 
+
+CatNealRages
+0
+33 people found this review helpful
+2 people found this review funny 4
+
+Not Recommended
+54.4 hrs on record
+Posted: 4 September, 2023
+I am very surprised to find that the reviews of the game are overwhelmingly positive at the time I write the review, because I am a very generous reviewer when it comes to rating games and this is probably gonna be my first negative review of a game. I have a lot of respect for the general concept of the game, and as a result I decided to write this after I obtain full achievements. There are a lot of innovative ideas in the game in comparison to Pokemon. For example, the type system is very novel in addition to simple damage modifiers. There are also a lot of side characters that the developer definitely have put in a lot of effort into unlike the plain and boring NPC you will see in other games. However, there are just more cons than pros in my opinion.
+
+Let's begin with the mobility. I love the idea of higher and higher level of mobility as we progress through the game. However, it felt very glitchy when using some of the ability at specific time. For example, I was able to reach a platform in late game by literally riding a magnet that I'm standing on. Moreover, the combination of those abilities can be very problematic because it is unclear which ability is correct for certain puzzle after you have many choices and it could be very frustrating for players to attempt a parkour that is not intended. Another specific bad design I want to point out is that when you land from a certain height, you will be staggered for a short moment, which is extremely annoying after you obtain the ability to leap, as you would often land from heights since then. The game offers you incredible mobility post-game, which I appreciate, but this stagger has been one of my major sources of frustration.
+
+This leads to the problem of map design. In early game, we do not have a lot of options for navigation. As a result, we have to move very carefully because we risk redoing a whole puzzle if falling of a cliff and land on the ground. However, such terrains in late game becomes nothing but obstacle courses because none of them are meaningful anymore but to slow you down while you move around. How about fast travels? They are stations which puts you in the interior of the building. You often have to navigate to get out. Furthermore, the fast travels are not evenly distributed, which results in a corner of the map not accessible through fast travel. What's worse is the fact that many puzzles / map changes can happen after you interact with the environment, but it is never clear which one would be permanent; You would assume it's gonna depend on something like the color of the buttons, but it is not. I am also not a fan of the fact that every ranger captain is just in the wild lurking with other random encounters and NPCs. There are more, but no space for them.
+
+Well those are just the trivial part of the game after all, but how about the design of mobs and battles? I am also not quite a fan! There are very good designs such as dynamic scaling, replaceable move sets, exp for the whole teams, etc. However, one of the biggest problems I have is that the type system and many status are not well instructed! You will get like a tutorial comment when you first encounter some type advantages / special status, but you only get them once and YOU CAN'T CHECK WHAT THEY ARE IN BATTLE! When you see all the status on your character but hovers/clickings does nothing, you can only guess what they are if you didn't pay enough attention.
+
+The way how status stack is also my biggest complaint about the game. Having more stacks of certain status will not affect their effectiveness, but only extends the number of turns they last. This not only significantly reduces the depth of combat, but also becomes extremely extremely annoying when you do not have items/backup moves to counter. For example, there is a boss fight that will constantly put you into sleep along with other random negative effects. This is normally fine in pokemon-like games because usually rewarding status like sleeping or freezing will have a lot of limitations, such as casting timing, accuracy of landing, etc. However, in this game, you can easily stack up those status with no penalty over times/turns. This specific boss will act twice a turn and has three moves that could potentially make you sleep. Using items won't help you much as you could very likely get leeched / accuracy down at the same time, which you would miss your only opportunity to strike and put back to sleep. These types of combos do not feel tricky but rather stupid, and because of the type advantage system often times you could just get stuck in one of the unfortunate loop of disadvantages. This is not to mention such disadvantages are carried along even after you switch tapes.
+
+The story of the game, despite many good comments, failed to align with the overall gamethrough. Many content of the game only really happens post-game, and the way how the game handles it is by allowing you to get back to the point before completion of the game, which means you are basically, in the story of this game, pausing your entire goal and let everyone wait at the final step. Would have been so easy to make it so that the player can fulfill their goal and travel in and out post-game, but it was so lazily handled instead. I will not comment on the other part of the stories as everyone may feel differently.
+
+The post-game experience is also extremely bad. One major problem is that this game does not support online-pvp at the time I write this, although it is likely something they could offer in the future. But then it's all about pve, which should have been challenges and collections. Unfortunately none of those are fun and rewarding enough. The hardest achievement is locked behind a quest board system introduced post-game, in which the excess progression is NOT CARRIED THROUGH from level to level. This means if you did a lot of collections / rogue fusions in early games, they are all wasted. That hardest achievements requires you to progress through many levels of the board, in which is roughly 200 fights that are dynamically scaled by default, along with consistent grind of quests. The quests are also grouped so that you cannot get new ones unless you complete the whole set, making it very inefficient if you ever stuck in any of those. The fight from those quests are not challenging at all, but annoying enough as it becomes a meaningless grind. There are also achievements for each type of bootlegs, which makes no sense to me. Furthermore, there's another achievement for collection not for catching all of the beasts, but TO LEVEL EACH FORM OF THEM TO MAX LEVEL, which basically eliminates team building in the entire playthrough and post-game grind, as you want to always have two strongest ones on top and carry four others that you want to level up to be efficient. The quests on the board is also simply boring. There were a few new ones introduced as you level up, which does not provide much challenge but rather just more annoying towards the end grind. As I said, the major factor in my opinion is that without pvp, there's not much point grinding for best monsters as none of the pve's are challenging enough for players to make an entire team, and having this many grind towards end game content is just absurd. I even doubt if the developers ever tried to play the game from scratch, or they are just piling up the end game contents as they develop the game, which makes them blind towards how bad the throughout experience would be.
+
+All and all, I really cannot recommend this game to anyone at this stage. New generations of pokemon have better systems, older ones are so classic. This game does not have anything that makes it stand out from any games in the same genre. Maybe the ideas are, as I walked in expecting those, but the execution in the end concludes to this negative review. It is almost a relief that I don't have to return to this game for a while, if not forever.
+ 
+
+ken_888
+25
+8 people found this review helpful 1
+
+Not Recommended
+6.2 hrs on record
+Posted: 12 September, 2024
+I really like the atmosphere, the graphics and the music. But the game itself just isn't for me. Even with level scaling turned off the battles are a grind and the puzzles just aren't interesting due to the sometimes janky physics. I would have loved to like it enough to finish it, but I just can't put myself to see it through to the end.
+ 
+
+Pepperdragon
+189 products in account
+0
+30 people found this review helpful
+2 people found this review funny 8
+
+Not Recommended
+15.8 hrs on record
+Posted: 6 May, 2023
+All the positive I originally said about the game mechanics / art style etc. remains. But I got sick of the wokeism
+
+- There is a quest where your job is literally to beat up capitalists (Somewhat on the nose isn't it?)
+- There is a whole quest line which has a religion-is-bad moral
+- There is a boss (named after a Latin Catholic phrase) fight whose narrative implies that religion makes people think about death too much.
+- The ArchVillian is an incarnation of King Arthur (amongst other conquers) called "Aleph" One can't help but think of "Alpha and Omega" - a tile for Christ. The "Deux Calibir" (read ahead, have not gotten to this boss fight) is one of the characters move. The character also wears traditional British military clothing, a subtle jab at the British empire. I also can't help but wonder if the triangular mirror head is meant to be a mocking of the "imago dei" concept.
+- The museum in the game celebrates the abolishment of the mayor position (a reference to abolishing the monarchy)
+- It encourages the Pronoun Protocol
+- The chief villains are called "Angels"
+
+I saw one review say that it is a very "British" game. It's not. It is a parable about how everything British/Western - religion, capitalism, the monarchy, our traditional legends - is bad. It, behind its goofy pixel graphics, is a seething rejection of Britishness, and by extension, the Western world generally.
+
+For some, they will love this game for the exact reasons I stopped playing it. But for me, I prefer my Pokemon w/o woke.
+
+==
+From my original review-
+
+Fun battle system, Great characters Great pixel art and an open world filled with puzzles. Feels like a Pokemon-like but also feels very unique. The presence of a teammate, the double health bar and the unique type v type effects give the game its own feel.
+
+
+The Open World is really open you can get a bunch of quests very quickly and have freedom as to the order you do them in. The Pixel art for the characters is really fun.
+ 
+
+gaberelich
+0
+12 people found this review helpful
+3 people found this review funny 0
+
+Not Recommended
+1.2 hrs on record
+Posted: 6 November, 2024
+when they said it was multi player i thought you could battle with your friends and so on, like in the dungeons or on the field.. but it seems thats only for the raids i guess? maybe i didnt get far enough, its over all a cool take on the pokemon like games but that bit is what ruined it for me :/
+ 
+
+Val
+0
+9 people found this review helpful 0
+
+Not Recommended
+12.1 hrs on record
+Posted: 8 January, 2024
+This game showed promise to me at first: interesting premise and good sense of humor, but it ended up feeling pretty tedious and samey after a while to where I just stopped feeling like playing it.
+ 
+
+borane
+0
+3 people found this review helpful 0
+
+Not Recommended
+50.7 hrs on record
+Posted: 12 January
+Endgame is an unnecessary grind fest. Maybe it would be bearable with a speed mode for combats.
+ 
+
+Enigma
+0
+16 people found this review helpful 0
+
+Not Recommended
+5.2 hrs on record
+Posted: 20 May, 2023
+Actual battles and monster design are fantastic, everything else you have to deal with outside of those is abysmal and make it too much of a slog to be worth finishing.
+ 
+
+SCÜPS
+727 products in account
+1
+3 people found this review helpful 0
+
+Not Recommended
+4.0 hrs on record
+Posted: 27 December, 2024
+Story is generally fairly fun but combat just feels janky and uneven half the time. Can definitely see plenty of people enjoying this but the way fights work just isn't my thing.
+ 
+
+Feytey
+1,066 products in account
+0
+9 people found this review helpful
+1 person found this review funny 0
+
+Not Recommended
+3.1 hrs on record
+Posted: 5 August, 2024
+THE MULTIPLAYER IS A LIE
+
+You can't actually play co-op, the only multiplayer that exists is a bare-bones feature where you can see other players, but not interact with them in any meaningful way.
+ 
+
+Oranix
+0
+2 people found this review helpful 0
+
+Not Recommended
+1.8 hrs on record
+Posted: 10 December, 2024
+There is awful screen shake when moving around in most areas. despite having the setting turned off... it is so distracting
+ 
+
+diposnams
+0
+4 people found this review helpful 0
+
+Not Recommended
+48.4 hrs on record
+Posted: 24 December, 2024
+It's great if you can actually play it. It crashes every 10-15 minutes. After some digging, the devs themselves admit it's a known issue; they've known about it for 2 years and have done nothing about it (according to them they don't even know how to fix it). The suggested workaround (running as administrator) did not work. I'm literally saving every 3-5 minutes, anticipating the next crash. I can't recommend this game.
+ 
+
+krazykid089
+0
+19 people found this review helpful 3
+
+Not Recommended
+0.3 hrs on record
+Posted: 7 August, 2023
+So I'm not too fond of pokemon-like games, so have my bias up front.
+This was suggested to me by a friend who was trying to sell me on the "you fuse with your monsters" and more important "you can combine monsters" - since I do enjoy games with high end customization.
+While graphically the designs and fusions are fantastic, the mechanics behind them seemed relatively lacking in terms of tactical nature. They're a little less 'fuse' and a little more 'sync' if that makes any sense.
+
+So I thought I was missing something so I went to check the discussions.
+When I found multiple locked threads from an apparently controversial design choice.
+While I've little issue with such mechanics being included, I can't say the same for noticing one half of the divide all getting locks and bans and the other half all getting a free pass. Hopefully the devs don't let it get so under their skin that they cut off their nose to spite their face. Seen that happening all too often lately.
+
+Keep positive guys, 96% of people like your game, I'm just not the target audience.
+ 
+
+TrueWOPR
+2,667 products in account
+10
+3 people found this review helpful 0
+
+Not Recommended
+33.0 hrs on record
+Posted: 22 February
+tl;dr: Get this on sale if you're out of better games in the genre to play. I want to like Cassette Beasts, but I'm really only carrying on playing the game at this point because of chronic completionism.
+
+Quest freedom: Apparently you can do many quests in any order you feel like. You may be under-leveled to accomplish some of the quests out of whatever order they were intended to be done, but catching up with levels doesn't take long. But it's probably best to follow whatever path they intended you to follow.
+
+Writing: The premise of the game is interesting, but the delivery and its dialogue feels extremely botched. For whatever reason the writers decided to ask the player to choose between two semantically identical dialogue choices over and over (think along the lines of YES vs SURE) that don't matter at all. Not only does this kind of choice offering fail to give a sense of role-playing, it feels far worse than not being given an option at all.
+
+Graphics: Some character designs are alright, but most characters have abysmal color schemes. Every human sprite in the overworld looks absolutely horrid, the weird part is that this seems to be a deliberate choice rather than laziness. The battle sprites and battle animations look for the greater part pretty good.
+
+Audio: The choice of music in the game feels strange and out of place, in particular whenever there is any singing involved. There is just enough voice acting to make it regrettable, characters occasionally say "HEY", grunt or say whatever one or two words that match the beginning of their line. Non-human sounds are mostly alright and suitable.
+
+Tutorial: The game handholds you hard during the tutorial segment. While understandable, the handholding is a mismatch with the world design, which shows you all the places you are physically unimpeded from visiting right away, except for the fact that the tutorial assistant character pulls you out of the narrow path and asks you to follow the designed path. It's some kind of solution, but it a grating solution compared to simply designing the tutorial path as a winding corridor like it was clearly intended to be.
+
+Battle mechanics: It's good and there is enough depth to make boss encounters interesting while allowing for a quicker trampling of weaker monsters, but at the 9 hour mark the frequency of battles and the slow speed of the battles is putting me at risk of dozing off if I try to play more than an hour in one sitting. A strong sign that something is off in the mix, my guess is in the quantity of battles and some damage sponge monsters.
+
+Capturing mechanics: Quite possibly the best I've seen in the genre. They got this one real right and future game designers should definitely learn from it.
+ 
+
+shundread
+0
+11 people found this review helpful
+2 people found this review funny 2
+
+Not Recommended
+12.1 hrs on record
+Posted: 9 June, 2023
+TL:DR. This is probably one of the best "Pokéclones" out there, but it still doesn't really escape feeling like a Pokéclone. If you're really hankering for something in that peripheral line, by all means get this, this is one of the best ones. If you want something that truly feels more unique, get Siralim or Monster Sanctuary. And if you want a Pokémon game but you can fuse them, you should try infinite fusion before you shell out the bucks for this.
+
+This is another game trying to be "Pokémon but better". Like a lot of those games, it starts in Pokémon's shadow and tries to take steps away to escape. Unlike most, to a degree it does... but unfortunately, it escapes from Pokémon's shadow into the shadow of what I can only describe as painfully generic indie tropes, something that feels like it should be an oxymoron.
+
+Here's the retro pixel-style graphics with oh-so-scary eldritch abominations being represented by art shifts. Here's the main cast of people somewhere between 15 and 30 with no identifiable traits in any direction. Here's the world of people from dozens of different times and cultures, by which they mean "Stranger Things aesthetic, modern tumblr sensibilities and a few jokes about historical events that didn't happen". And I can't be the only one that immediately figured out the "ooh beeeg tweeest" pretty much the moment that the game tried to play coy about who the strongest warrior fused with.
+
+This game is also a victim of timing, which I feel sorry for, because it was at least a little bit smarter than most games of the sort. Unlike a fair few indie and indie-adjacent mon games, it understood not to try and rush itself out to capitalise on the scorned fans from Sword and Shield or Scarlet and Violet, because those sorts of scorned fans do not a healthy game ecosystem make. Unfortunately, right as it's coming out, so does Pokemon Infinite Fusion take the spotlight, a game which much more directly answers the fantasy that Cassette beasts wanted to use as it's niche, and doesn't hold back on letting players indulge in it by using it's unofficial status to let players toss in their own ideas and fan-references, and by letting players do it early and often. Cassette beasts' own fusion system, meanwhile, is algorithmically generated, and if you're like me and like to explore other characters and test all of them first, rather than diving deep with your starter character and doing all their content at once, then the game can feel very stingy with it during your first few hours. (Fusion runs on Steven Universe rules, with the exact same implications - specifically I believe you need to hit Bond Level 1 to unlock it with a given character, which means you actually need to quest with the character and can't just get it by adventuring with them). Even when it's not, it doesn't feel like something you get to really play with as much as you kind of need to to make it a tentpole of your game. So what's meant to be this fairly pricey indie game's core feature is completely overshadowed by a free fangame of the thing it's trying to distance itself from.
+
+The starters are... merely okay. There's nothing strictly wrong with either one individually, it's just that they feel like they have a hefty amount of thematic overlap (to the point that the question of which starter you want being framed as "spooky" vs. "sweet" felt kinda ridiculous). Monsters overall are pretty good, having a notably more civilised theme of being largely associated with human jobs or tech than most rosters. A shame that the potential of that is largely wasted, as you don't catch monsters, you just copy their forms, and it does change how you perceive them. You're not collecting a team, you're collecting a closet.
+
+Catching has been frustrating. You tether on to a monster at the start of the turn, skip that character's turn then anything that happens to that monster or to you over the course of the turn affects the likelihood of success. This means that it feels just... bad a lot of the time, as you watch your HP and your chance of recording it plummet because i guess the monster or monsters both decided to make the catch harder. A classic case of making something worse from the baseline to try and make it more unique, as well as not understanding that sometimes showing the exact number is a bad thing.
+
+Another thing that the game tries to distinguish itself with, but instead makes the game feel less interesting, is something I can only think of as monster symmetry. When you start doing things like the bootleg system which means every monster can be any type, and have so many moves that just inherit types from the monster, they just lose identity. And if I have one more game that thinks "monotyped Pokéballs and nothing else" is a great idea for their specialty Pokéballs I will feed them an entire cactus.
+ 
+
+Leafsw0rd
+464 products in account
+0
+3 people found this review helpful 0
+
+Not Recommended
+10.6 hrs on record
+Posted: 23 July, 2023
+I want to recomend this game, but there are just so many little amateurish mistakes in this game.
+
+- moves don't tell you if they can be equipped to a specific monster or not until you open the three sub menus to equip it.
+- game has box stacking to reach areas as a mechanic, but the boxes have weird physics and sometimes your character chucks them up on a cliff so you cant retrieve them
+- If you swap from a low health monster the game doesn't remember this and will spawn you in as that low health monster in the next fight.
+- No tool tips for abilities or status effects so you need the wiki open to know what things do if you don't remember from the first time you saw them.
+- Flee is easy to accidentally hit, with no confirmation pop up so you can often just flee from fights accidentally. Happens very often when your trying to capture a monster since the buttons are right next to each other. The one time you REALLY DO NOT WANT TO FLEE..
+
+It's death by a thousand paper cuts. None of these are game breaking on their own, but there are just so many of them that it slows the game down.
+
+I really hope they do a quality of life update so I can recommend this game.
+ 
+
+Zylo
+973 products in account
+1
+6 people found this review helpful
+1 person found this review funny 0
+
+Not Recommended
+38.0 hrs on record
+Posted: 14 August, 2024
+Traveling around the map is needlessly tedious and restrictive making going anywhere that isn't a warp a chore to get to.
+combat is very slow and some battle feel like a slog even with a elemental advantage a good handful of the later fights are not fun because of how long they take. it does have it moments though, it feels very satisfying to do a strong set up and blast through a team or even knock out a trainer before they can even get to their next cassette.
+Multiplayer is disappointingly half baked with the only thing you can do with another player is rouge fusion battles. other than that you can only see them on the overworld.
+Most of the creature designs are good and the moves potentially having special effects is cool and can completely turn a fight around. it's a very unique idea that is executed very well but the combat left a lot to be desired as i mentioned.
+I can see the appeal with the game but i find it very mediocre for the most part. if you're looking for a creature collector i would try something else.
+ 
+
+1-Inch Gamer
+183 products in account
+0
+3 people found this review helpful 1
+
+Not Recommended
+58.7 hrs on record
+Posted: 20 December, 2024
+If you're looking for a relationship builder/decently fun exploration game, you'll probably enjoy this game. While there are some stumbling blocks (Kayleigh's story is exceptionally poorly handled), the story is pretty well handled, and despite there being something like 50 named characters in the game, all the designs feel well thought out and unique.
+
+Unfortuantely, the battle system, the central aspect of the game, is mechanically very overbaked. This isn't a huge problem in the inital story, but in the post game, when the game starts pushing you towards optimizing your team, it becomes very frustrating. In general, a lot of the things you can do to improve your team feel very monotanous, since there's a lot of rng involved for what often feels like very little tangible rewards.
+
+This is by no means a bad game, and while there are a lot of compelling mechanics/story aspects, I think it's less than the sum of its parts.
+ 
+
+SynthPanda_
+83 products in account
+0
+3 people found this review helpful 0
+
+Not Recommended
+0.6 hrs on record
+Posted: 17 January
+this game SAYS it has co-op but in reality you are playing the game singleplayer with another person IN your world.
+basically just the newer pokemon co-op
+ 
+
+mythical beast picture
+0
+1 person found this review helpful
+2 people found this review funny 0
+
+Not Recommended
+29.5 hrs on record
+Posted: 23 November, 2024
+Robin goodfellow
+ 
+
+△Zedlaproto△
+181 products in account
+0
+1 person found this review helpful 0
+
+Not Recommended
+50.6 hrs on record
+Posted: 23 January, 2024
+This game has great style, funky names and cool looking monsters. Everything else about this game just annoys me (Combat with elements/buffs/debuffs) and early game world exploration to pad gameplay.
