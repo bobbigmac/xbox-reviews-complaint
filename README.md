@@ -51,7 +51,7 @@ The policy needs to change.
 - [Thirsty Suitors](GAMES/GAME_THIRSTY_SUITORS.md)
 
 ### Special Cases (Non-Game Pass)
-These games demonstrate how Game Pass increases targeted harassment:
+These games demonstrate how Game Pass's promotion unintentionally increases targeted harassment (these have much lower rates of hateful comments as described int their own GAME files):
 - [Tell Me Why](GAMES/GAME_TELL_ME_WHY.md)
 - [Dragon Age: Veilguard](GAMES/GAME_DRAGON_AGE_VEILGUARD.md)
 
