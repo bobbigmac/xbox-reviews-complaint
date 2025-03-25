@@ -3,6 +3,10 @@
 ## Game Overview
 Boyfriend Dungeon is a dungeon crawler/dating sim hybrid featuring diverse, LGBTQ+-inclusive characters and pronoun options. The game was added to Xbox Game Pass in 2021, with ongoing visibility through platform promotion.
 
+## XBOX Store Link
+
+[Boyfriend Dungeon | Xbox](https://www.xbox.com/en-gb/games/store/boyfriend-dungeon/9n5phz0d92ld)
+
 ## Review Bombing Pattern
 
 ### Xbox Store Reviews

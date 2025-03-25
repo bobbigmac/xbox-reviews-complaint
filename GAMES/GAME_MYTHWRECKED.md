@@ -3,6 +3,10 @@
 ## Game Overview
 Mythwrecked: Ambrosia Island is a cozy exploration game with a female protagonist (Alex, perceived as non-white) and diverse character designs. The game was added to Xbox Game Pass in October 2024.
 
+## XBOX Store Link
+
+[Mythwrecked: Ambrosia Island | Xbox](https://www.xbox.com/en-GB/games/store/mythwrecked-ambrosia-island/9nc4x3lp87tn)
+
 ## Review Bombing Pattern
 
 ### Xbox Store Reviews

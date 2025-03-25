@@ -3,6 +3,10 @@
 ## Game Overview
 Cassette Beasts is a monster-collecting RPG featuring diverse character designs, queer characters, and pronoun selection options. The game was added to Xbox Game Pass in 2024, after its initial PC release.
 
+## XBOX Store Link
+
+[Cassette Beasts | Xbox](https://www.xbox.com/en-GB/games/store/cassette-beasts/9n82snqtzvmq)
+
 ## Review Bombing Pattern
 
 ### Xbox Store Reviews

@@ -3,6 +3,10 @@
 ## Game Overview
 Dragon Age: Veilguard is a full-price RPG featuring diverse characters, non-binary options, and queer relationships. Unlike many games in this analysis, it was not added to Game Pass, requiring purchase or EA Play trial for access.
 
+## XBOX Store Link
+
+[Dragon Age: The Veilguard | Xbox](https://www.xbox.com/en-GB/games/store/dragon-age-the-veilguard/bsdx4fnnc0dk)
+
 ## Review Pattern Comparison
 
 ### Xbox Store Reviews

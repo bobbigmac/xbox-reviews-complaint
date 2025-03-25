@@ -3,6 +3,10 @@
 ## Game Overview
 Thirsty Suitors is a narrative-driven game with turn-based combat, featuring a South Asian protagonist and progressive themes around relationships, cultural identity, and sexuality. The game was added to Xbox Game Pass in late 2024.
 
+## XBOX Store Link
+
+[Thirsty Suitors | Xbox](https://www.xbox.com/en-gb/games/store/thirsty-suitors/9pls01jrjcwb)
+
 ## Review Bombing Pattern
 
 ### Xbox Store Reviews

@@ -3,6 +3,10 @@
 ## Game Overview
 Flintlock: The Siege of Dawn is a souls-lite action RPG featuring Nor Vanek, a black female protagonist. The game was added to Xbox Game Pass in July 2024 as a day-one release. The game received generally positive critical reception (70/100) and "Mostly Positive" reviews on Steam.
 
+## XBOX Store Link
+
+[Flintlock: The Siege of Dawn | Xbox](https://www.xbox.com/en-gb/games/store/flintlock-the-siege-of-dawn/9pbbqhx6v3pj)
+
 ## Review Bombing Pattern
 
 ### Xbox Store Reviews

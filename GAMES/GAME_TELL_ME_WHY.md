@@ -3,6 +3,10 @@
 ## Game Overview
 Tell Me Why is a narrative adventure game featuring a trans male protagonist (Tyler) and themes of family, identity, and acceptance. The game was made available for free during Pride Month and other occasions, but notably was not added to Game Pass, avoiding the platform's promotional home page 'New to Game Pass' panel.
 
+## XBOX Store Link
+
+[Tell Me Why | Xbox](https://www.xbox.com/en-GB/games/store/tell-me-why-chapters-1-3/9NF83PRZK6K3/0010)
+
 ## Review Pattern Comparison
 
 ### Xbox Store Reviews
