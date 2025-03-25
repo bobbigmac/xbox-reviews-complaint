@@ -12,7 +12,7 @@ Children's games on the Xbox Store face a unique and severe moderation crisis. G
 - [Paw Patrol Grand Prix | Xbox](https://www.xbox.com/en-US/games/store/paw-patrol-grand-prix/9MWBT3HFCZ3Z)
 - [Paw Patrol Mighty Pups | Xbox](https://www.xbox.com/en-GB/games/store/paw-patrol-mighty-pups-save-adventure-bay/9N3TF03KNTBD)
 
-## Other games with hyper-sexualised/disturbing reviews
+## Other kids games with hyper-sexualised/disturbing reviews
 
 These are other games that I have no detailed breakdowns for, that all have very disturbing, sexual, deranged or violent reviews that have been reported but not removed. 
 

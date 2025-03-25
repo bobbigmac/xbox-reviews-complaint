@@ -50,6 +50,9 @@ The policy needs to change.
 - [Boyfriend Dungeon](GAMES/GAME_BOYFRIEND_DUNGEON.md)
 - [Thirsty Suitors](GAMES/GAME_THIRSTY_SUITORS.md)
 
+### Other Games (without review reports)
+- [Games/Other Games](GAMES/OTHER_GAMES.md)
+
 ### Special Cases (Non-Game Pass)
 These games demonstrate how Game Pass promotion unintentionally increases targeted harassment (these have much lower rates of hateful comments as described in their respective GAME documents):
 - [Tell Me Why](GAMES/GAME_TELL_ME_WHY.md)
