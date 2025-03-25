@@ -25,7 +25,8 @@ The Xbox Store's review system is failing developers and users in several critic
 - This visibility exposes games to immediate review bombing from users who haven't played them
 - The "New to Game Pass" section appears just below the fold on every Xbox's home screen
 - This promotion actively pushes games to players who may be motivated to down-rank based on prejudice
-- Reported dog-whistle, masked hate-speech or sexualised reviews on childrens games do not get removed upon reports, and when requesting an update on report progress, they are flagged as not violating the policy.
+- Reported dog-whistle, masked hate-speech or sexualised reviews on childrens games do not get removed upon reports.
+    - When requesting an update on report progress, they are flagged as not violating the policy.
 
 The policy needs to change.
 
@@ -34,8 +35,6 @@ The policy needs to change.
 ### Lack of Review Quality Control
 - No playtime requirements for leaving reviews
 - No filtering of hate speech or known dogwhistles
-- No weighting toward constructive or helpful votes
-- Algorithmic surfacing of recent reviews regardless of quality
 - No special protection for children's games
 
 **→ [View the escalation path if ignored](ESCALATION.md) ←**
