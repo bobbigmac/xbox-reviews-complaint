@@ -101,8 +101,7 @@ Bob Davies
 
 ## Supporting Documentation
 
-Detailed evidence, including review analysis, platform comparisons, and specific examples can be found in the public documentation repository:
-https://github.com/bobbigmac/xbox-reviews-complaint
+Detailed evidence, including review analysis, platform comparisons, and specific examples can be found in the public documentation repository: [https://github.com/bobbigmac/xbox-reviews-complaint](https://github.com/bobbigmac/xbox-reviews-complaint)
 
 This repository contains:
 - Detailed analysis of review bombing patterns
