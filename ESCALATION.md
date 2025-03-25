@@ -80,6 +80,48 @@
 - Developer Twitter/X networks
 - Industry forums (Game Developer)
 
+## Potential Community Support Network
+
+### Industry Organizations & Media
+- **Gayming Magazine**
+  - Leading LGBTQ+ gaming publication
+  - Significant industry reach and credibility
+
+- **I Need Diverse Games**
+  - Established advocacy platform
+  - Extensive community reach
+
+- **GaymerX**
+  - Major gaming convention organizer
+  - Global community presence
+
+### Specialized Industry Networks
+- **Trans Game Dev Collective**
+  - Developer-focused organization
+  - Platform accountability expertise
+
+- **Queer Women of Esports**
+  - Professional gaming sector representation
+  - Platform safety advocacy
+
+- **Rainbow Arcade**
+  - Gaming industry network
+  - Community engagement focus
+
+### Industry Voices
+- **Ed Nightingale** (Eurogamer)
+  - Gaming industry journalist
+  - Platform analysis expertise
+
+- **Stacey Henley** (TheGamer)
+  - Editorial leadership
+  - Industry accountability coverage
+
+- **Industry Writers**
+  - Laurie Penny
+  - Kate Gray
+  - Platform analysis and advocacy experience
+
 ## Public Pressure Campaign
 
 ### If Other Channels Fail:
