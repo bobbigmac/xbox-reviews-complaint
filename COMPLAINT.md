@@ -63,7 +63,7 @@ The following solutions are immediately implementable:
 - Prevents resubmission loops while satisfying need to "be heard"
 - Cost-effective moderation solution
 - Doesn't trigger hate-trading in reviews (as comments/discussions)
-- Doesn't 'feed the trolls', encourages meaninful contributions by minorities who are driven away from review sections by hateful/dogwhistle content.
+- Doesn't 'feed the trolls', encourages meaningful contributions by minorities who are driven away from review sections by hateful/dog-whistle content.
 
 ## Implementation Reality
 
