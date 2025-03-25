@@ -12,7 +12,8 @@ This repository documents systematic failures in Xbox Store review moderation, p
 
 ## Current Status
 - Reported via [buscond@microsoft.com](mailto:buscond@microsoft.com) as advised by live chat. 
-- Received confirmation of receipt email.
+    - Received confirmation of receipt email.
+- Reported to [Microsoft Digital Safety](https://www.microsoft.com/digitalsafety/report-a-concern)
 
 ## The Problem
 
