@@ -15,6 +15,9 @@ This repository documents systematic failures in Xbox Store review moderation, p
     - Received confirmation of receipt email.
 - Reported to [Microsoft Digital Safety](https://www.microsoft.com/digitalsafety/report-a-concern)
 - Pending feedback prior to further escalation.
+    - Recieved form reply redirecting to different department on a page that doesn't support complaints submissions
+
+[See HISTORY](HISTORY/)
 
 ## The Problem
 
