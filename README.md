@@ -24,7 +24,16 @@ This repository documents systematic failures in Xbox Store review moderation, p
 
 ## The Problem
 
-The Xbox Store's review system is failing developers and users in several critical ways:
+The Xbox Store's review system is failing developers and customers in several critical ways:
+
+### Lack of Review Quality Control
+- Highly offensive (r_pe and inc_st) review content
+    - Especially highly present on kids games
+    - Not removed after reporting
+- No playtime requirements for leaving reviews
+- No filtering of hate speech or known dogwhistles
+    - No adaptive policy
+- No special protection for children's games
 
 ### Game Pass Promotion Amplifies Issues
 - Games added to Game Pass are prominently featured on the Xbox dashboard
@@ -37,15 +46,6 @@ The Xbox Store's review system is failing developers and users in several critic
 The policy needs to change.
 
 **→ [See the proposed solutions](SOLUTIONS.md) ←**
-
-### Lack of Review Quality Control
-- Highly offensive (r_pe and inc_st) review content
-    - Especially highly present on kids games
-    - Not removed after reporting
-- No playtime requirements for leaving reviews
-- No filtering of hate speech or known dogwhistles
-    - No adaptive policy
-- No special protection for children's games
 
 **→ [View the escalation path if ignored](ESCALATION.md) ←**
 
