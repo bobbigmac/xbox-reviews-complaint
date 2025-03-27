@@ -144,9 +144,9 @@ These are other games that I have no detailed breakdowns for, that all have very
    - Create family-friendly review format
 
 3. **Moderation Enhancement**
-   - Dedicated children's content team
+   - Dedicated children's content response
    - Automated inappropriate content detection
-   - Special review queue for children's titles
+   - Special review priority for children's titles
    - Regular audit of moderation effectiveness
 
 ## Conclusion
