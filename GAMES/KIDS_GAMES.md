@@ -8,7 +8,7 @@ Children's games on the Xbox Store face a unique and severe moderation crisis. G
 
 - [Bluey: The Videogame | Xbox](https://www.xbox.com/en-GB/games/store/bluey-the-videogame/9N2J0FGV30DX/0010)
 - [Paw Patrol World | Xbox](https://www.xbox.com/en-US/games/store/paw-patrol-world/9n2vds259qp1)
-- [My Friend Peppa Pig | Xbox](https://www.xbox.com/en-GB/games/store/my-friend-peppa-pig/9ndjlxd2x2dm)
+- [My Friend Peppa Pig | Xbox](https://www.xbox.com/en-gb/games/store/my-friend-peppa-pig/9ndjlxd2x2dm)
 - [Paw Patrol Grand Prix | Xbox](https://www.xbox.com/en-US/games/store/paw-patrol-grand-prix/9MWBT3HFCZ3Z)
 - [Paw Patrol Mighty Pups | Xbox](https://www.xbox.com/en-GB/games/store/paw-patrol-mighty-pups-save-adventure-bay/9N3TF03KNTBD)
 
