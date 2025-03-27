@@ -14,6 +14,8 @@ This repository documents systematic failures in Xbox Store review moderation, p
 - Reported via [buscond@microsoft.com](mailto:buscond@microsoft.com) as advised by live chat. 
     - Received confirmation of receipt email.
 - Reported to [Microsoft Digital Safety](https://www.microsoft.com/digitalsafety/report-a-concern)
+    - Received reply saying "unable to complete a review of your concern"
+    - Submitted second report with more specifics in the details box
 - Pending feedback prior to further escalation.
     - Received form reply redirecting to different department on a page that doesn't support complaints submissions
     - Received reply redirecting to irrelevant department again, and stating "I am unable to escalate the issue."
