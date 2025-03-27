@@ -15,7 +15,8 @@ This repository documents systematic failures in Xbox Store review moderation, p
     - Received confirmation of receipt email.
 - Reported to [Microsoft Digital Safety](https://www.microsoft.com/digitalsafety/report-a-concern)
 - Pending feedback prior to further escalation.
-    - Recieved form reply redirecting to different department on a page that doesn't support complaints submissions
+    - Received form reply redirecting to different department on a page that doesn't support complaints submissions
+    - Received reply redirecting to irrelevant department again, and stating "I am unable to escalate the issue."
 
 [See HISTORY](HISTORY/)
 
@@ -36,8 +37,12 @@ The policy needs to change.
 **→ [See the proposed solutions](SOLUTIONS.md) ←**
 
 ### Lack of Review Quality Control
+- Highly offensive (r_pe and inc_st) review content
+    - Especially highly present on kids games
+    - Not removed after reporting
 - No playtime requirements for leaving reviews
 - No filtering of hate speech or known dogwhistles
+    - No adaptive policy
 - No special protection for children's games
 
 **→ [View the escalation path if ignored](ESCALATION.md) ←**
