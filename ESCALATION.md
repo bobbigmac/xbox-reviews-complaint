@@ -22,6 +22,16 @@
 - Include previous correspondence
 - Wait 7-10 days for response
 
+### 4. ChatGPT suggests
+
+#### 1. Write to Microsoft’s Executive Team
+
+Satya Nadella (CEO) – satyan@microsoft.com
+
+Brad Smith (Vice Chair & President) – bradsmi@microsoft.com
+
+These emails are known to be monitored by executive assistants or PR staff, especially if the email is articulate, factual, and includes real examples of policy failures.
+
 ## Press Outreach
 
 ### Primary Target: Eurogamer
