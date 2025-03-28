@@ -10,19 +10,6 @@ This repository documents systematic failures in Xbox Store review moderation, p
 
 **→ [Read the formal complaint to Microsoft/Xbox](COMPLAINT.md) ←**
 
-## Current Status
-- Reported via [buscond@microsoft.com](mailto:buscond@microsoft.com) as advised by live chat. 
-    - Received confirmation of receipt email.
-- Reported to [Microsoft Digital Safety](https://www.microsoft.com/digitalsafety/report-a-concern)
-    - Received reply saying "unable to complete a review of your concern"
-    - Submitted second report with more specifics in the details box
-        - Bluey (beas_iality/inc_st based 'reviews') "was not a violation of our terms."
-- Pending feedback prior to further escalation.
-    - Received form reply redirecting to different department on a page that doesn't support complaints submissions
-    - Received reply redirecting to irrelevant department again, and stating "I am unable to escalate the issue."
-
-[See HISTORY](HISTORY/)
-
 ## The Problem
 
 The Xbox Store's review system is failing developers and customers in several critical ways:
@@ -35,6 +22,23 @@ The Xbox Store's review system is failing developers and customers in several cr
 - No filtering of hate speech or known dogwhistles
     - No adaptive policy
 - No special protection for children's games
+
+## Current Status
+- Reported via [buscond@microsoft.com](mailto:buscond@microsoft.com) as advised by live chat. 
+    - Received confirmation of receipt email.
+    - Awaiting response
+- Reported to [Microsoft Digital Safety](https://www.microsoft.com/digitalsafety/report-a-concern)
+    - Received form reply redirecting to different department on a page that doesn't support complaints submissions
+    - Received reply redirecting to irrelevant department again, and stating "I am unable to escalate the issue."
+    - Received reply saying "unable to complete a review of your concern"
+    - Submitted second report with more specifics in the details box
+        - Bluey (beas_iality/inc_st based 'reviews') "was not a violation of our terms."
+- Reported to Customer Advocacy Team
+    - Seems to no longer exist
+- Sent to AskBoard email address
+    - Unlikely to have any response, but no other MS places to escalate I can find.
+
+[See HISTORY](HISTORY/)
 
 ### Game Pass Promotion Amplifies Issues
 - Games added to Game Pass are prominently featured on the Xbox dashboard
