@@ -65,6 +65,10 @@ The policy needs to change.
 - [Boyfriend Dungeon](GAMES/GAME_BOYFRIEND_DUNGEON.md)
 - [Thirsty Suitors](GAMES/GAME_THIRSTY_SUITORS.md)
 
+### Children's Games and Sexualised/Filth reviews
+A particularly severe case of moderation failure:
+- [Analysis of Children's Games Reviews](GAMES/KIDS_GAMES.md)
+
 ### Other Games (without review reports)
 - [Games/Other Games](GAMES/OTHER_GAMES.md)
 
@@ -72,10 +76,6 @@ The policy needs to change.
 These games demonstrate how Game Pass promotion unintentionally increases targeted harassment (these have much lower rates of hateful comments as described in their respective GAME documents):
 - [Tell Me Why](GAMES/GAME_TELL_ME_WHY.md)
 - [Dragon Age: Veilguard](GAMES/GAME_DRAGON_AGE_VEILGUARD.md)
-
-### Children's Games Crisis
-A particularly severe case of moderation failure:
-- [Analysis of Children's Games Reviews](GAMES/KIDS_GAMES.md)
 
 ## Key Documents
 
