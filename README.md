@@ -37,6 +37,7 @@ The Xbox Store's review system is failing developers and customers in several cr
     - Seems to no longer exist
 - Sent to AskBoard email address
     - Unlikely to have any response, but no other MS places to escalate I can find.
+- Raised to Outright Games (as most directly affected) via Twitter
 
 [See HISTORY](HISTORY/)
 
