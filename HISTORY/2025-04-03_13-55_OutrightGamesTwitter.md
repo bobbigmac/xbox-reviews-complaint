@@ -1,5 +1,8 @@
 
 - Sent to Outright Games via Twitter DM (their contact form doesn't work in Brave or Firefox).
+- Google's ai says I can use support@outrightgames.com so emailed there too.
+
+## Regarding extreme review content on your games on xbox store
 
 Hi. I tried to use the contact form on your website but it doesn't work.
 
@@ -14,3 +17,5 @@ https://github.com/bobbigmac/xbox-reviews-complaint/
 
 Thanks
 Robert Davies
+
+- Automated email response: Your request (12410) has been received and is being reviewed by our support staff.
